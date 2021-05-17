@@ -3,7 +3,7 @@ title: 'sonho, logo existo'
 hide_title: false
 sections:
   - type: content_section
-    image: images/about.jpg
+    image: /images/DSC_0833-2_2.jpg
     image_alt: Our team in the meeting room
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
