@@ -55,7 +55,14 @@ sections:
     subtitle: lorem-ipsum
     posts_number: 2
     col_number: two
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: posts_section
   - type: cta_section
     section_id: cta
