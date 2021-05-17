@@ -30,7 +30,7 @@
             },
             {
                 "type": "action",
-                "label": "About",
+                "label": "sobre",
                 "url": "/about/",
                 "style": "link"
             },
