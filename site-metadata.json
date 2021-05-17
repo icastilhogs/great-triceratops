@@ -12,7 +12,7 @@
         "nav_links": [
             {
                 "type": "action",
-                "label": "Home",
+                "label": "home",
                 "url": "/",
                 "style": "link"
             },
