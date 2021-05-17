@@ -5,7 +5,6 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     title: projetos
-    subtitle: Explore case studies
     layout_style: tiles
     projects_number: 6
     view_all_label: View All
