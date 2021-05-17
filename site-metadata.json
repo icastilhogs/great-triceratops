@@ -24,7 +24,7 @@
             },
             {
                 "type": "action",
-                "label": "blog",
+                "label": "journal",
                 "url": "/blog/",
                 "style": "link"
             },
