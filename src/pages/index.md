@@ -56,7 +56,7 @@ sections:
     posts_number: 2
     col_number: two
     actions:
-      - label: lorem-ipsum
+      - label: ver todos
         url: '#'
         style: button
         icon: dribbble
