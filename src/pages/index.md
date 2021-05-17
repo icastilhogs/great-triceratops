@@ -83,9 +83,9 @@ sections:
   - type: cta_section
     section_id: cta
     title: Vamos trabalhar juntos!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      Diga "Olá" pelo e-mail atendimento@eupoiese.com ou pelo WhatsApp pelo
+      número +55 22 9 8845-6722 e conte-nos seus objetivos e ideias!
     actions:
       - type: action
         label: Let's start
