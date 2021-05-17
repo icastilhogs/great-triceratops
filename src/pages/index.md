@@ -7,7 +7,7 @@ sections:
     title: projetos
     layout_style: tiles
     projects_number: 2
-    view_all_label: Ver todos
+    view_all_label: ver todos
     view_all_url: portfolio
   - type: grid_section
     section_id: services
