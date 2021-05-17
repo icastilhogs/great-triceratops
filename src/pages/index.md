@@ -48,7 +48,7 @@ sections:
           - Brand implementation and management
           - Typography
       - type: grid_item
-        title: Experience design
+        title: Agenor
         image: images/service-3.svg
         content: |-
           - Digital product design
