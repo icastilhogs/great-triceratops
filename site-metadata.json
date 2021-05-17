@@ -68,7 +68,7 @@
                 "url": "#",
                 "style": "link",
                 "icon": "youtube",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }
