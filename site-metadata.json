@@ -75,7 +75,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "#",
-                "style": "link",
+                "style": "icon",
                 "icon": "pinterest",
                 "new_window": true,
                 "no_follow": false,
