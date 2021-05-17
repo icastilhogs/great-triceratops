@@ -50,7 +50,7 @@ sections:
           - Social media
           - Product design
   - section_id: lorem-ipsum
-    title: blog
+    title: journal
     posts_number: 2
     col_number: two
     actions:
