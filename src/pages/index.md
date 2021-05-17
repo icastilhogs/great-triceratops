@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: portfolio_section
     section_id: latest-projects
-    title: projetos
+    title: portfolio
     layout_style: tiles
     projects_number: 2
     view_all_label: ver todos
