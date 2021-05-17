@@ -1,5 +1,5 @@
 ---
-title: Our Story
+title: 'sonho, logo existo'
 hide_title: false
 sections:
   - type: content_section
