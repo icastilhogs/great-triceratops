@@ -54,7 +54,7 @@ sections:
     title: blog
     subtitle: lorem-ipsum
     posts_number: 2
-    col_number: three
+    col_number: two
     actions: []
     type: posts_section
   - type: cta_section
