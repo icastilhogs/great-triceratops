@@ -6,7 +6,7 @@ sections:
     section_id: latest-projects
     title: projetos
     layout_style: tiles
-    projects_number: 6
+    projects_number: 2
     view_all_label: Ver todos
     view_all_url: portfolio
   - type: grid_section
