@@ -17,7 +17,7 @@ sections:
   - type: grid_section
     section_id: team
     title: time
-    subtitle: An optional subtitle of the section
+    subtitle: nossos família
     col_number: three
     grid_items:
       - type: grid_item
