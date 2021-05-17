@@ -53,7 +53,7 @@ sections:
   - section_id: lorem-ipsum
     title: blog
     subtitle: lorem-ipsum
-    posts_number: 3
+    posts_number: 2
     col_number: three
     actions: []
     type: posts_section
