@@ -51,7 +51,7 @@ sections:
           - Social media
           - Product design
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: blog
     subtitle: lorem-ipsum
     posts_number: 3
     col_number: three
