@@ -68,7 +68,7 @@ sections:
         label: começar
         url: /contact
         style: button
-    image: images/cta.svg
+    image: /images/eupoiese.png
     image_alt: Illustration
     bg_color: light
 template: advanced
