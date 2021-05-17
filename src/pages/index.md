@@ -57,7 +57,7 @@ sections:
     col_number: two
     actions:
       - label: ver todos
-        url: '#'
+        url: /blog
         style: button
         icon: dribbble
         new_window: false
