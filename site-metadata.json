@@ -18,7 +18,7 @@
             },
             {
                 "type": "action",
-                "label": "projetos",
+                "label": "portfolio",
                 "url": "/portfolio/",
                 "style": "link"
             },
