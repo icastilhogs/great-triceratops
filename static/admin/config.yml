@@ -98,7 +98,7 @@ collections:
                     name: url
                     label: URL
                     required: true
-                    default: '#'
+                    default: "#"
                   - widget: select
                     name: style
                     label: Style
@@ -170,7 +170,7 @@ collections:
                     name: url
                     label: URL
                     required: true
-                    default: '#'
+                    default: "#"
                   - widget: select
                     name: style
                     label: Style
@@ -232,7 +232,7 @@ collections:
                     name: url
                     label: URL
                     required: true
-                    default: '#'
+                    default: "#"
                   - widget: select
                     name: style
                     label: Style
@@ -286,8 +286,8 @@ collections:
     create: true
     extension: md
     identifier_field: title
-    slug: '{{slug}}'
-    summary: '{{title}}'
+    slug: "{{slug}}"
+    summary: "{{title}}"
     fields:
       - widget: string
         name: title
@@ -339,7 +339,7 @@ collections:
                     name: url
                     label: URL
                     required: true
-                    default: '#'
+                    default: "#"
                   - widget: select
                     name: style
                     label: Style
@@ -463,7 +463,7 @@ collections:
                     name: url
                     label: URL
                     required: true
-                    default: '#'
+                    default: "#"
                   - widget: select
                     name: style
                     label: Style
@@ -603,7 +603,7 @@ collections:
                         name: url
                         label: URL
                         required: true
-                        default: '#'
+                        default: "#"
                       - widget: select
                         name: style
                         label: Style
@@ -701,7 +701,7 @@ collections:
                 name: view_all_url
                 label: All projects button URL
                 required: false
-                default: '#'
+                default: "#"
               - widget: hidden
                 name: type
                 label: Object Type
@@ -757,7 +757,7 @@ collections:
                     name: url
                     label: URL
                     required: true
-                    default: '#'
+                    default: "#"
                   - widget: select
                     name: style
                     label: Style
@@ -898,7 +898,7 @@ collections:
                 name: form_id
                 label: Form ID
                 required: true
-                hint: 'A unique identifier of the form, must not contain whitespace'
+                hint: "A unique identifier of the form, must not contain whitespace"
               - widget: string
                 name: form_action
                 label: Form action
@@ -928,12 +928,12 @@ collections:
                     name: name
                     label: Name
                     required: true
-                    hint: 'The name of the field, submitted with the form'
+                    hint: "The name of the field, submitted with the form"
                   - widget: string
                     name: label
                     label: Label
                     required: false
-                    hint: 'The caption of the field, shown above the field input'
+                    hint: "The caption of the field, shown above the field input"
                   - widget: string
                     name: default_value
                     label: Placeholder or default value
@@ -985,13 +985,13 @@ collections:
             name: title
             label: Title
             required: false
-            default: ''
+            default: ""
             hint: The page title that goes into the <title> tag
           - widget: string
             name: description
             label: Description
             required: false
-            default: ''
+            default: ""
             hint: >-
               The page description that goes into the <meta name="description">
               tag
@@ -1025,12 +1025,12 @@ collections:
                 name: name
                 label: Name
                 required: false
-                default: ''
+                default: ""
               - widget: string
                 name: value
                 label: Value
                 required: false
-                default: ''
+                default: ""
               - widget: string
                 name: keyName
                 label: Key Name
@@ -1059,7 +1059,7 @@ collections:
     files:
       - name: blog
         label: Blog
-        file: src/pages/blog/index.md
+        file: src/pages/journal/index.md
         fields:
           - widget: string
             name: title
@@ -1094,13 +1094,13 @@ collections:
                 name: title
                 label: Title
                 required: false
-                default: ''
+                default: ""
                 hint: The page title that goes into the <title> tag
               - widget: string
                 name: description
                 label: Description
                 required: false
-                default: ''
+                default: ""
                 hint: >-
                   The page description that goes into the <meta
                   name="description"> tag
@@ -1134,12 +1134,12 @@ collections:
                     name: name
                     label: Name
                     required: false
-                    default: ''
+                    default: ""
                   - widget: string
                     name: value
                     label: Value
                     required: false
-                    default: ''
+                    default: ""
                   - widget: string
                     name: keyName
                     label: Key Name
@@ -1200,13 +1200,13 @@ collections:
                 name: title
                 label: Title
                 required: false
-                default: ''
+                default: ""
                 hint: The page title that goes into the <title> tag
               - widget: string
                 name: description
                 label: Description
                 required: false
-                default: ''
+                default: ""
                 hint: >-
                   The page description that goes into the <meta
                   name="description"> tag
@@ -1240,12 +1240,12 @@ collections:
                     name: name
                     label: Name
                     required: false
-                    default: ''
+                    default: ""
                   - widget: string
                     name: value
                     label: Value
                     required: false
-                    default: ''
+                    default: ""
                   - widget: string
                     name: keyName
                     label: Key Name
@@ -1272,8 +1272,8 @@ collections:
     create: true
     extension: md
     identifier_field: title
-    slug: '{{slug}}'
-    summary: '{{title}}'
+    slug: "{{slug}}"
+    summary: "{{title}}"
     fields:
       - widget: string
         name: title
@@ -1304,13 +1304,13 @@ collections:
             name: title
             label: Title
             required: false
-            default: ''
+            default: ""
             hint: The page title that goes into the <title> tag
           - widget: string
             name: description
             label: Description
             required: false
-            default: ''
+            default: ""
             hint: >-
               The page description that goes into the <meta name="description">
               tag
@@ -1344,12 +1344,12 @@ collections:
                 name: name
                 label: Name
                 required: false
-                default: ''
+                default: ""
               - widget: string
                 name: value
                 label: Value
                 required: false
-                default: ''
+                default: ""
               - widget: string
                 name: keyName
                 label: Key Name
@@ -1380,12 +1380,12 @@ collections:
       value: page
   - name: post
     label: Posts
-    folder: src/pages/blog
+    folder: src/pages/journal
     create: true
     extension: md
     identifier_field: title
-    slug: '{{slug}}'
-    summary: '{{title}}'
+    slug: "{{slug}}"
+    summary: "{{title}}"
     fields:
       - widget: string
         name: title
@@ -1435,13 +1435,13 @@ collections:
             name: title
             label: Title
             required: false
-            default: ''
+            default: ""
             hint: The page title that goes into the <title> tag
           - widget: string
             name: description
             label: Description
             required: false
-            default: ''
+            default: ""
             hint: >-
               The page description that goes into the <meta name="description">
               tag
@@ -1475,12 +1475,12 @@ collections:
                 name: name
                 label: Name
                 required: false
-                default: ''
+                default: ""
               - widget: string
                 name: value
                 label: Value
                 required: false
-                default: ''
+                default: ""
               - widget: string
                 name: keyName
                 label: Key Name
@@ -1515,8 +1515,8 @@ collections:
     create: true
     extension: md
     identifier_field: title
-    slug: '{{slug}}'
-    summary: '{{title}}'
+    slug: "{{slug}}"
+    summary: "{{title}}"
     fields:
       - widget: string
         name: title
@@ -1606,13 +1606,13 @@ collections:
             name: title
             label: Title
             required: false
-            default: ''
+            default: ""
             hint: The page title that goes into the <title> tag
           - widget: string
             name: description
             label: Description
             required: false
-            default: ''
+            default: ""
             hint: >-
               The page description that goes into the <meta name="description">
               tag
@@ -1646,12 +1646,12 @@ collections:
                 name: name
                 label: Name
                 required: false
-                default: ''
+                default: ""
               - widget: string
                 name: value
                 label: Value
                 required: false
-                default: ''
+                default: ""
               - widget: string
                 name: keyName
                 label: Key Name
