@@ -88,7 +88,7 @@ sections:
       número +55 22 9 8845-6722 e conte-nos seus objetivos e ideias!
     actions:
       - type: action
-        label: Let's start
+        label: Começar agora
         url: /contact
         style: button
     image: images/cta.svg
