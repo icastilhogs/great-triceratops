@@ -9,15 +9,28 @@ sections:
     projects_number: 2
     view_all_label: ver todos
     view_all_url: portfolio
+  - section_id: journal
+    title: journal
+    posts_number: 2
+    col_number: two
+    actions:
+      - label: ver todos
+        url: /journal
+        style: button
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+    type: posts_section
   - type: grid_section
-    section_id: services
+    section_id: team
     title: time
     subtitle: nossa família de experts
     col_number: three
     grid_items:
       - type: grid_item
         title: Isabela
-        image: images/service-1.svg
+        image: images/isabela.png
         content: |-
           - Research and insight
           - Business innovation and transformation
@@ -28,7 +41,7 @@ sections:
           - Communication strategy
       - type: grid_item
         title: Iago
-        image: images/service-2.svg
+        image: images/iago.png
         content: |-
           - Brand development
           - Naming
@@ -49,19 +62,6 @@ sections:
           - Communication design
           - Social media
           - Product design
-  - section_id: lorem-ipsum
-    title: journal
-    posts_number: 2
-    col_number: two
-    actions:
-      - label: ver todos
-        url: /blog
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    type: posts_section
   - type: cta_section
     section_id: cta
     title: Vamos trabalhar juntos!

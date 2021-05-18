@@ -5,7 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Vamos trabalhar juntos!<br>
+      Let’s build something great together.<br>
 
       Complete our contact form or send us an email at
       [email@example.com](mailto:email@example.com).
@@ -25,7 +25,7 @@ sections:
 
       CEP 28-0000<br>
 
-
+      
       [Mapa &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
 
 
