@@ -6,14 +6,18 @@ sections:
     image: /images/DSC_0833-2_2.jpg
     image_alt: Our team in the meeting room
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+      sonho, logo existo
+      Sem sonhos não haveria Via Láctea nem estrelas
+      
+      Pensar não é suficiente. Como diria Kierkegaard, “escolher-se é existir-se”. E quem sonha deseja. Desejar é mais que pensar. O desejo é criativo, fractalmente, universo a fora. Quem existe cria. Quem existe, necessariamente, deseja, mais do que simplesmente reflete.
+      Sonhe. Porque sonhos criaram o mundo e o recriam a cada dia. Sonhe. Sonhe, porque sem sonhos não haveria Via Láctea nem estrelas. Sonhe, porque você mesmo é um sonho da criação e, por isto, você existe. Sonhe, porque quem não sonha não vai a lua. Quem não sonha não vai a luta. Sonhe para escolher-se. Sonhe para existir-se.
 
+      Sonhe, porque só o sonho movimenta. E o movimento é o criador do tempo. Os sonhos são as fronteiras do universo. Não é à toa que os cientistas cibernéticos concluíram que a vida é fleissgleichgewicht, o contínuo estado de equilíbrio dinâmico. Todo sistema vivo opera longe do equilíbrio. Todo sistema vivo movimenta-se. E não é clichê, é ciência — as crises são transbordamento de complexidade que nos levam aos pontos de bifurcação: ou ascendemos a uma nova ordem e um novo estado de (des)equilíbrio (equilíbrio dinâmico, ritmo, movimento), ou perdemos por completo tudo que já havia sido construído. O fato é que, após escolher, quem escolheu já não mais existe.
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      Crescer é morrer para renascer. Viver e morrer é organizar e reorganizar constantemente, incessantemente. E só quem sonha bagunça. Só quem sonha embaralha e reorganiza.
+
+      Acorde hoje para sonhar. Sonhe com suas pernas, sonhe com seus braços. Sonhe com lapiseiras, pincéis, tijolos e números. Bagunce a vida com muita elegância, como apenas um grande sonhador faria. Sonhe, porque você existe.
+
   - type: grid_section
     section_id: team
     title: time
@@ -21,9 +25,9 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Gustav Purpleson
-        subtitle: 'Co-Founder, Creative Director'
-        image: images/team-1.png
+        title: Isabela
+        subtitle: Arquiteta
+        image: images/isabela.png
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
@@ -35,9 +39,9 @@ sections:
             icon: twitter
             new_window: true
       - type: grid_item
-        title: Hilary Ouse
-        subtitle: 'Co-Founder, Creative Director'
-        image: images/team-2.png
+        title: Iago
+        subtitle: Arquiteto
+        image: images/iago.png
         content: >-
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
           aliquet nec ullamcorper sit.
@@ -49,9 +53,9 @@ sections:
             icon: twitter
             new_window: true
       - type: grid_item
-        title: Gordon Norman
-        subtitle: Creative Producer
-        image: images/team-3.png
+        title: Iago
+        subtitle: Arquiteto
+        image: images/iago.png
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
           lacus.
