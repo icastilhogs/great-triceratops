@@ -83,5 +83,6 @@
             }
         ]
     },
-    "domain": "https://eupoiese.com"
+    "domain": "https://eupoiese.com",
+    "favicon": "/images/polite-jupiter.png"
 }
