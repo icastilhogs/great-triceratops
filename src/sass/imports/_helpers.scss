@@ -124,11 +124,11 @@
     padding: 1.5em;
 
     &:not(:first-child) {
-      margin-top: 1.5em;
+      margin-top: 2.5em;
     }
 
     &:not(:last-child) {
-      margin-bottom: 1.5em;
+      margin-bottom: 2.5em;
     }
   }
 
@@ -137,19 +137,19 @@
   :not(.responsive-table) > table,
   .responsive-table {
     &:not(:first-child) {
-      margin-top: 1.5em;
+      margin-top: 2.5em;
     }
 
     &:not(:last-child) {
-      margin-bottom: 1.5em;
+      margin-bottom: 2.5em;
     }
   }
 }
 
 // Image block
 .image-block {
-  margin-bottom: 1.5em;
-  margin-top: 1.5em;
+  margin-bottom: 2.5em;
+  margin-top: 2.5em;
 
   &:first-child {
     margin-top: 0;
