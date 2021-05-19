@@ -169,10 +169,10 @@ models:
           - stackbit_page_meta
   blog:
     type: page
-    urlPath: /blog
-    label: Blog
+    urlPath: /journal
+    label: Journal
     layout: blog
-    file: blog/index.md
+    file: journal/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -241,7 +241,7 @@ models:
     label: Page
     layout: page
     exclude:
-      - blog/**
+      - journal/**
       - portfolio/**
     fields:
       - type: string
@@ -267,10 +267,10 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/blog/{slug}'
+    urlPath: '/journal/{slug}'
     label: Post
     layout: post
-    folder: blog
+    folder: journal
     fields:
       - type: string
         name: title

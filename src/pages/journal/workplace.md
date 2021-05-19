@@ -1,9 +1,9 @@
 ---
 title: O urbanismo não faz ciência
 date: '2021-02-12'
-thumb_image: images/post-6-thumb.jpg
+thumb_image: images/journal/Jane_Jacobs.jpg
 thumb_image_alt: White desk lamp beside green plant
-image: images/post-6.jpg
+image: images/journal/Jane_Jacobs.jpg
 image_alt: White desk lamp beside green plant
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan

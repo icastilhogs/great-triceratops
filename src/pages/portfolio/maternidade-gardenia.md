@@ -1,13 +1,13 @@
 ---
-title: The Book
-subtitle: Editorial Design
-date: '2020-04-10'
-thumb_image: images/work-book-cover-1-thumb.jpg
-thumb_image_alt: The Book preview
+title: Arquitetura Fractal
+subtitle: Print
+date: '2020-02-10'
+thumb_image: images/portfolio/gardenia/001.png
+thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
-    image: images/work-book-cover-1.jpg
-    image_alt: The Book 1
+    image: images/portfolio/gardenia/001.png
+    image_alt: Design Is One 1
     caption: This is the caption of the image
     width: wide
   - type: text_section
@@ -21,8 +21,8 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: images/work-book-cover-2.jpg
-    image_alt: The Book 2
+    image: images/portfolio/gardenia/002.png
+    image_alt: Design Is One 2
     width: wide
   - type: text_section
     content: >-
@@ -31,8 +31,8 @@ sections:
       placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
       Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
-    image: images/work-book-cover-3.jpg
-    image_alt: The Book 3
+    image: images/portfolio/gardenia/003.png
+    image_alt: Design Is One 3
     width: wide
   - type: text_section
     content: >-
@@ -46,30 +46,30 @@ sections:
       arcu accumsan lorem amet accumsan.
 seo:
   type: stackbit_page_meta
-  title: The Book
+  title: Design Is One
   description: This is the sample project description
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: The Book
+      value: Design Is One
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
       keyName: property
     - name: 'og:image'
-      value: images/work-book-cover-1.jpg
+      value: images/work-poster-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Book
+      value: Design Is One
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'
-      value: images/work-book-cover-1.jpg
+      value: images/work-poster-1.jpg
       relativeUrl: true
 template: project
 ---

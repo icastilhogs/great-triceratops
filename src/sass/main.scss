@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@font-face {
+  font-family: "Dalliance Script";
+  src: url('./../../static/fonts/DallianceScript.ttf') format("truetype");
+}
+
 // Fonts
 $fonts: (
   fraunces: ("Fraunces", serif),
@@ -24,7 +31,8 @@ $accent-colors: (
   green:  #10b981,
   red:    #fa292a,
   violet: #7c43a8,
-  yellow: #ed9700
+  yellow: #ed9700,
+  black: black,
 );
 
 // Container max width

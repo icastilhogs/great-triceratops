@@ -1,8 +1,8 @@
 ---
-title: Aimi
-subtitle: Brand Development
+title: Tudo pela luz
+subtitle: A Galeria Feuer é, ao mesmo tempo, casa e estúdio de um fotógrafo
 date: '2020-03-10'
-thumb_image: images/work-branding-1-thumb.jpg
+thumb_image: images/portfolio/feuer/001.png
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section

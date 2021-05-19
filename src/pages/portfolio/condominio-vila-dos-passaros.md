@@ -1,13 +1,13 @@
 ---
-title: Nature Magazine
-subtitle: Editorial Design
-date: '2021-01-10'
-thumb_image: images/work-magazine-1-thumb.jpg
-thumb_image_alt: Nature Magazine preview
+title: Cantando como passarinhos
+subtitle: O condomínio 'Vila dos Pássaros' 
+date: '2020-05-10'
+thumb_image: images/work-book-1-thumb.jpg
+thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section
-    image: images/work-magazine-1.jpg
-    image_alt: Nature Magazine 1
+    image: images/work-book-1.jpg
+    image_alt: Nature Mockup Magazine 1
     caption: This is the caption of the image
     width: wide
   - type: text_section
@@ -21,8 +21,8 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: images/work-magazine-2.jpg
-    image_alt: Nature Magazine 2
+    image: images/work-book-2.jpg
+    image_alt: Nature Mockup Magazine 2
     width: wide
   - type: text_section
     content: >-
@@ -31,8 +31,8 @@ sections:
       placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
       Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
-    image: images/work-magazine-3.jpg
-    image_alt: Nature Magazine 3
+    image: images/work-book-3.jpg
+    image_alt: Nature Mockup Magazine 3
     width: wide
   - type: text_section
     content: >-
@@ -46,30 +46,30 @@ sections:
       arcu accumsan lorem amet accumsan.
 seo:
   type: stackbit_page_meta
-  title: Nature Magazine
+  title: Nature Mockup Magazine
   description: This is the sample project description
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nature Magazine
+      value: Nature Mockup Magazine
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
       keyName: property
     - name: 'og:image'
-      value: images/work-magazine-1.jpg
+      value: images/work-book-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Nature Magazine
+      value: Nature Mockup Magazine
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'
-      value: images/work-magazine-1.jpg
+      value: images/work-book-1.jpg
       relativeUrl: true
 template: project
 ---

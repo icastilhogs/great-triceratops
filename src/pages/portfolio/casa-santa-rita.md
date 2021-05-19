@@ -1,6 +1,6 @@
 ---
-title: Subtle
-subtitle: Brand Development
+title: Brotando espaço
+subtitle: Nesta reforma, mantendo a área construída a sensação espacial quadruplicou!
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview

@@ -1,9 +1,9 @@
 ---
 title: Arquitetura cibernética do início ao fim
 date: '2021-01-15'
-thumb_image: images/post-5-thumb.jpg
+thumb_image: images/journal/photo-1552688468-d87e6f7a58f2.jpg
 thumb_image_alt: White wooden table with a chair
-image: images/post-5.jpg
+image: images/journal/photo-1552688468-d87e6f7a58f2.jpg
 image_alt: White wooden table with a chair
 excerpt: >-
   Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
