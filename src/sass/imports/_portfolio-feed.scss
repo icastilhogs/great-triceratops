@@ -106,7 +106,7 @@
     &--mosaic {
       .project-card {
         -ms-flex: 0 0 60%;
-        flex: 0 0 60%;
+        flex: 1 1 60%;
         max-width: 60%;
 
         &:nth-child(4n+2),
