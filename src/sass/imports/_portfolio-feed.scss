@@ -112,7 +112,7 @@
         &:nth-child(4n+2),
         &:nth-child(4n+3) {
           -ms-flex: 1 1 40%;
-          flex: 0 0 auto;
+          flex: 1 1 auto;
 
           .project-card__image {
             &:before {
