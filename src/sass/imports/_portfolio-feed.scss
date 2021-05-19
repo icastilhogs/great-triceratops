@@ -111,7 +111,7 @@
 
         &:nth-child(4n+2),
         &:nth-child(4n+3) {
-          -ms-flex: 0 0 40%;
+          -ms-flex: 1 1 auto;
           flex: 1 1 auto;
           max-width: 40%;
 
