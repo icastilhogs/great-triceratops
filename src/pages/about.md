@@ -117,7 +117,6 @@ sections:
     col_number: three
     grid_items:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
