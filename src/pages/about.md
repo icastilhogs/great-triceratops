@@ -1,5 +1,5 @@
 ---
-title: 'sonho, logo existo'
+title: sobre
 hide_title: false
 sections:
   - type: content_section
