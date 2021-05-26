@@ -70,7 +70,7 @@ sections:
           saiu para focar na carreira. Lecionou na pós-graduação Latus Senso
           "Arquitetura da Cidade e suas Tecnologias" no Instituto Federal
           Fluminense. Escreveu artigos para PARC e para o blog da Valente
-          Empreendimentos.
+          Empreendimentos. Revisou artigo para revista urbana da Unicamp.
         actions:
           - type: action
             label: Twitter
