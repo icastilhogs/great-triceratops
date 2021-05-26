@@ -152,6 +152,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
+        image: /images/13f379e7d43c_parc.jpg
       - image_alt: coppe ufrj
         actions: []
         type: grid_item
