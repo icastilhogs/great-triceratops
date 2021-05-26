@@ -113,7 +113,7 @@ sections:
             new_window: true
   - section_id: lorem-ipsum
     title: onde estivemos
-    subtitle: lorem-ipsum
+    subtitle: Instituições que fizeram parte da nossa jornada
     col_number: three
     grid_items:
       - image_alt: lorem-ipsum
