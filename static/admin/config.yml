@@ -1086,6 +1086,7 @@ collections:
             options:
               - two
               - three
+              - five
           - widget: object
             name: seo
             label: Seo
