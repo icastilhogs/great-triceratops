@@ -128,8 +128,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/unnamed (3).png
-      - title: lorem-ipsum
-        image_alt: university of east london
+      - image_alt: university of east london
         actions: []
         type: grid_item
         image: /images/unnamed.png
