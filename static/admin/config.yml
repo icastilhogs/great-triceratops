@@ -746,6 +746,7 @@ collections:
                 options:
                   - two
                   - three
+                  - five
               - widget: list
                 name: actions
                 label: Action buttons
