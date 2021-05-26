@@ -134,17 +134,6 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: university of east london
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
         image: /images/unnamed.png
