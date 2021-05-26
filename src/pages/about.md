@@ -6,16 +6,27 @@ sections:
     image: /images/DSC_0833-2_2.jpg
     image_alt: Our team in the meeting room
     content: >
-      Somos um laboratório descentralizado de arquitetura e urbanismo (e tem
-      urbanismo mesmo, viu?) que auxilia empreendedores a tiraram seus sonhos e
-      estratégias do papel.
+      A  Eupoiese é um laboratório cibernético descentralizado de arquitetura e
+      urbanismo (e tem urbanismo mesmo, viu?) que auxilia empreendedores a
+      tiraram seus sonhos estrategicamente do papel.
 
 
-      ## sonho, logo existo 
+      Nosso nome é uma **neologia **criada a partir do radical grego "*poiesis",
+      *origem da palavra "poesia", que também significa  **criação**. Junto ao
+      prefixo grego *"eu"* - "perfeito" -, a palavra significa "criação
+      superior", ou "**criação perfeita**".  Mais que isso, como um laboratório
+      cibernético - isto é, que estuda padrões de controle a comunicação -,
+      fazemos referência ao estilo de linguagem poética, pela sua capacidade e
+      ousadia de capturar e transmitir complexidades humanas. 
+
+
+      Nosso manifesto é:
+
+
+      ## sonho, logo existo
 
 
       > *Sem sonhos não haveria Via Láctea nem estrelas*
-
 
 
       Pensar não é suficiente. Como diria Kierkegaard, “escolher-se é
