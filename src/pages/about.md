@@ -3,7 +3,6 @@ title: sobre
 hide_title: false
 sections:
   - type: content_section
-    image: /images/autopoiesis09-1-rotated.jpg
     image_alt: Our team in the meeting room
     content: >
       A  Eupoiese é um laboratório cibernético descentralizado de arquitetura e
