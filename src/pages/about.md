@@ -22,9 +22,6 @@ sections:
       Nosso manifesto é:
 
 
-      ## sonho, logo existo
-
-
       > *Sem sonhos não haveria Via Láctea nem estrelas*
 
 
