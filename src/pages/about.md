@@ -120,8 +120,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/unnamed (5).png
-      - subtitle: lorem-ipsum
-        image_alt: coppe ufrj
+      - image_alt: coppe ufrj
         actions: []
         type: grid_item
         image: /images/unnamed (4).png
