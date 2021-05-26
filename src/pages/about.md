@@ -116,7 +116,7 @@ sections:
     subtitle: Instituições que fizeram parte da nossa jornada
     col_number: three
     grid_items:
-      - image_alt: lorem-ipsum
+      - image_alt: urbana unicamp
         actions: []
         type: grid_item
         image: /images/unnamed (5).png
