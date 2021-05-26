@@ -112,7 +112,7 @@ sections:
             icon: instagram
             new_window: true
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: onde estivemos
     subtitle: lorem-ipsum
     col_number: three
     grid_items: []
