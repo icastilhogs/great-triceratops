@@ -133,7 +133,7 @@ sections:
         image: /images/unnamed (3).png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
+        image_alt: university of east london
         content: >-
           ## Lorem ipsum
 
