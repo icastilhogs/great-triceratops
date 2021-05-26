@@ -101,7 +101,7 @@ sections:
       - type: grid_item
         title: '?'
         subtitle: Estagiário
-        image: images/iago.png
+        image: /images/cta.svg
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
           lacus.
