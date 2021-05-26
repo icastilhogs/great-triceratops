@@ -6,8 +6,8 @@ thumb_image_alt: White desk lamp beside green plant
 image: images/journal/Jane_Jacobs.jpg
 image_alt: White desk lamp beside green plant
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Frase da jornalista norte-americana Jane Jacobs, autora de "Morte e Vida das
+  Grandes Cidades". Entenda.
 seo:
   type: stackbit_page_meta
   title: The Elements of Great Workplace Design
