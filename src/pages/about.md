@@ -99,7 +99,7 @@ sections:
             icon: twitter
             new_window: true
       - type: grid_item
-        title: Iago
+        title: '?'
         subtitle: Estagiário
         image: images/iago.png
         content: >-
