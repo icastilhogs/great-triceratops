@@ -111,6 +111,12 @@ sections:
             style: icon
             icon: instagram
             new_window: true
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: grid_section
 seo:
   type: stackbit_page_meta
   title: About Us
