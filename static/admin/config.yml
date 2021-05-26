@@ -561,6 +561,7 @@ collections:
                 options:
                   - two
                   - three
+                  - five
               - widget: list
                 name: grid_items
                 label: Grid items
