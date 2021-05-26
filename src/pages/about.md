@@ -147,7 +147,7 @@ sections:
       - image_alt: urbana unicamp
         actions: []
         type: grid_item
-        image: /images/unnamed (5).png
+        image: /images/graceful-owl.png
       - subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         actions: []
