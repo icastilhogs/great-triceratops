@@ -6,9 +6,8 @@ thumb_image_alt: White wooden table with a chair
 image: images/journal/photo-1552688468-d87e6f7a58f2.jpg
 image_alt: White wooden table with a chair
 excerpt: >-
-  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
-  aenean vel elit.
+  Você sabe o que é arquitetura cibernética? Neste trabalho acadêmico explicamos
+  tudinho do início ao fim!
 seo:
   type: stackbit_page_meta
   title: The Advantages and Disadvantages of Working from Home
