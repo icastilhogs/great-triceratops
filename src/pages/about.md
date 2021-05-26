@@ -69,7 +69,8 @@ sections:
           Iniciou mestrado em Engenharia de Sistemas e Comunicação na COPPE e
           saiu para focar na carreira. Lecionou na pós-graduação Latus Senso
           "Arquitetura da Cidade e suas Tecnologias" no Instituto Federal
-          Fluminense. Escreveu artigos para PARC e para o blog 
+          Fluminense. Escreveu artigos para PARC e para o blog da Valente
+          Empreendimentos.
         actions:
           - type: action
             label: Twitter
