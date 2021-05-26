@@ -124,8 +124,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/unnamed (4).png
-      - subtitle: lorem-ipsum
-        image_alt: instituto federal fluminense
+      - image_alt: instituto federal fluminense
         actions: []
         type: grid_item
         image: /images/unnamed (3).png
