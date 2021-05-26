@@ -5,19 +5,48 @@ sections:
   - type: content_section
     image: /images/DSC_0833-2_2.jpg
     image_alt: Our team in the meeting room
-    content: >-
-      sonho, logo existo
-      Sem sonhos não haveria Via Láctea nem estrelas
-      
-      Pensar não é suficiente. Como diria Kierkegaard, “escolher-se é existir-se”. E quem sonha deseja. Desejar é mais que pensar. O desejo é criativo, fractalmente, universo a fora. Quem existe cria. Quem existe, necessariamente, deseja, mais do que simplesmente reflete.
-      Sonhe. Porque sonhos criaram o mundo e o recriam a cada dia. Sonhe. Sonhe, porque sem sonhos não haveria Via Láctea nem estrelas. Sonhe, porque você mesmo é um sonho da criação e, por isto, você existe. Sonhe, porque quem não sonha não vai a lua. Quem não sonha não vai a luta. Sonhe para escolher-se. Sonhe para existir-se.
+    content: >
+      Somos um laboratório descentralizado de arquitetura e urbanismo (e tem
+      urbanismo mesmo, viu?) que auxilia empreendedores a tiraram seus sonhos e
+      estratégias do papel.
 
-      Sonhe, porque só o sonho movimenta. E o movimento é o criador do tempo. Os sonhos são as fronteiras do universo. Não é à toa que os cientistas cibernéticos concluíram que a vida é fleissgleichgewicht, o contínuo estado de equilíbrio dinâmico. Todo sistema vivo opera longe do equilíbrio. Todo sistema vivo movimenta-se. E não é clichê, é ciência — as crises são transbordamento de complexidade que nos levam aos pontos de bifurcação: ou ascendemos a uma nova ordem e um novo estado de (des)equilíbrio (equilíbrio dinâmico, ritmo, movimento), ou perdemos por completo tudo que já havia sido construído. O fato é que, após escolher, quem escolheu já não mais existe.
 
-      Crescer é morrer para renascer. Viver e morrer é organizar e reorganizar constantemente, incessantemente. E só quem sonha bagunça. Só quem sonha embaralha e reorganiza.
+      ## sonho, logo existo 
 
-      Acorde hoje para sonhar. Sonhe com suas pernas, sonhe com seus braços. Sonhe com lapiseiras, pincéis, tijolos e números. Bagunce a vida com muita elegância, como apenas um grande sonhador faria. Sonhe, porque você existe.
 
+      > *Sem sonhos não haveria Via Láctea nem estrelas*
+
+
+
+      Pensar não é suficiente. Como diria Kierkegaard, “escolher-se é
+      existir-se”. E quem sonha deseja. Desejar é mais que pensar. O desejo é
+      criativo, fractalmente, universo a fora. Quem existe cria. Quem existe,
+      necessariamente, deseja, mais do que simplesmente reflete. Sonhe. Porque
+      sonhos criaram o mundo e o recriam a cada dia. Sonhe. Sonhe, porque sem
+      sonhos não haveria Via Láctea nem estrelas. Sonhe, porque você mesmo é um
+      sonho da criação e, por isto, você existe. Sonhe, porque quem não sonha
+      não vai a lua. Quem não sonha não vai a luta. Sonhe para escolher-se.
+      Sonhe para existir-se.
+
+      Sonhe, porque só o sonho movimenta. E o movimento é o criador do tempo. Os
+      sonhos são as fronteiras do universo. Não é à toa que os cientistas
+      cibernéticos concluíram que a vida é fleissgleichgewicht, o contínuo
+      estado de equilíbrio dinâmico. Todo sistema vivo opera longe do
+      equilíbrio. Todo sistema vivo movimenta-se. E não é clichê, é ciência — as
+      crises são transbordamento de complexidade que nos levam aos pontos de
+      bifurcação: ou ascendemos a uma nova ordem e um novo estado de
+      (des)equilíbrio (equilíbrio dinâmico, ritmo, movimento), ou perdemos por
+      completo tudo que já havia sido construído. O fato é que, após escolher,
+      quem escolheu já não mais existe.
+
+      Crescer é morrer para renascer. Viver e morrer é organizar e reorganizar
+      constantemente, incessantemente. E só quem sonha bagunça. Só quem sonha
+      embaralha e reorganiza.
+
+      Acorde hoje para sonhar. Sonhe com suas pernas, sonhe com seus braços.
+      Sonhe com lapiseiras, pincéis, tijolos e números. Bagunce a vida com muita
+      elegância, como apenas um grande sonhador faria. Sonhe, porque você
+      existe.
   - type: grid_section
     section_id: team
     title: time
