@@ -79,7 +79,7 @@ sections:
             new_window: true
           - label: Instagram
             url: Instagram.com/isabelacastilho__
-            style: link
+            style: icon
             icon: dribbble
             new_window: false
             no_follow: false
