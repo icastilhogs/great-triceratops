@@ -99,26 +99,6 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-      - type: grid_item
-        title: '?'
-        subtitle: Estagiário
-        image: /images/cta.svg
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
-        actions:
-          - type: action
-            label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - type: action
-            label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
   - section_id: lorem-ipsum
     title: onde estivemos
     subtitle: Instituições que fizeram parte da nossa jornada
