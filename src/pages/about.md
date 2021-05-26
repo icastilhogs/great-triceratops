@@ -78,7 +78,7 @@ sections:
             icon: twitter
             new_window: true
           - label: Instagram
-            url: '#'
+            url: Instagram.com/isabelacastilho__
             style: link
             icon: dribbble
             new_window: false
