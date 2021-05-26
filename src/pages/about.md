@@ -148,8 +148,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/graceful-owl.png
-      - subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         actions: []
         type: grid_item
         image: /images/13f379e7d43c_parc.jpg
