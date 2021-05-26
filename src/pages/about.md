@@ -11,11 +11,11 @@ sections:
       tiraram seus sonhos estrategicamente do papel.
 
 
-      Nosso nome é uma **\*\*neologia \*\*** criada a partir do radical grego
+      Nosso nome é uma \*\*neologia \*\* criada a partir do radical grego
       *"\*poiesis"*, \*origem da palavra "poesia", que também significa 
-      **criação**. Junto ao prefixo grego *"eu"* - "perfeito" -, a palavra
-      significa "criação superior", ou "**criação perfeita**".  Mais que isso,
-      como um laboratório cibernético - isto é, que estuda padrões de controle a
+      criação. Junto ao prefixo grego *"eu"* - "perfeito" -, a palavra significa
+      "criação superior", ou "criação perfeita".  Mais que isso, como um
+      laboratório cibernético - isto é, que estuda padrões de controle a
       comunicação -, fazemos referência ao estilo de linguagem poética, pela sua
       capacidade e ousadia de capturar e transmitir complexidades humanas.
 
