@@ -150,6 +150,22 @@ sections:
         actions: []
         type: grid_item
         image: /images/unnamed (4).png
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
     type: grid_section
 seo:
   type: stackbit_page_meta
