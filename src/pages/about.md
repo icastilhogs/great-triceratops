@@ -140,8 +140,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/unnamed (8).png
-      - subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         actions: []
         type: grid_item
         image: /images/unnamed (7).png
