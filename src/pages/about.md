@@ -116,8 +116,7 @@ sections:
     subtitle: lorem-ipsum
     col_number: three
     grid_items:
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         actions: []
         type: grid_item
         image: /images/unnamed (5).png
