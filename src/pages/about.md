@@ -64,9 +64,12 @@ sections:
         title: Isabela
         subtitle: Arquiteta
         image: images/isabela.png
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
+        content: >
+          Arquiteta e urbanista formada pelo Instituto Federal Fluminense.
+          Iniciou mestrado em Engenharia de Sistemas e Comunicação na COPPE e
+          saiu para focar na carreira. Lecionou na pós-graduação Latus Senso
+          "Arquitetura da Cidade e suas Tecnologias" no Instituto Federal
+          Fluminense. Escreveu artigos para PARC e para o blog 
         actions:
           - type: action
             label: Twitter
