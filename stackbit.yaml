@@ -551,6 +551,7 @@ models:
         options:
           - two
           - three
+          - five
         default: three
         required: true
       - type: list
