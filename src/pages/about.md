@@ -12,7 +12,7 @@ sections:
 
 
       Nosso nome é uma \*\*neologia \*\* criada a partir do radical grego
-      "\*poiesis", \*origem da palavra "poesia", que também significa 
+      *"\*poiesis"*, \*origem da palavra "poesia", que também significa 
       **criação**. Junto ao prefixo grego *"eu"* - "perfeito" -, a palavra
       significa "criação superior", ou "**criação perfeita**".  Mais que isso,
       como um laboratório cibernético - isto é, que estuda padrões de controle a
