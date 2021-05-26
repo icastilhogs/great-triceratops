@@ -100,7 +100,7 @@ sections:
             new_window: true
       - type: grid_item
         title: Iago
-        subtitle: Arquiteto
+        subtitle: Estagiário
         image: images/iago.png
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
