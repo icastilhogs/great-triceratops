@@ -11,7 +11,7 @@ sections:
       tiraram seus sonhos estrategicamente do papel.
 
 
-      Nosso nome é uma \*\*neologia \*\* criada a partir do radical grego
+      Nosso nome é uma **neologia ** criada a partir do radical grego
       *"\*poiesis"*, \*origem da palavra "poesia", que também significa 
       **criação**. Junto ao prefixo grego *"eu"* - "perfeito" -, a palavra
       significa "criação superior", ou "**criação perfeita**".  Mais que isso,
