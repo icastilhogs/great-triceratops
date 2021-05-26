@@ -73,7 +73,7 @@ sections:
         actions:
           - type: action
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://twitter.com/inmathterms'
             style: icon
             icon: twitter
             new_window: true
