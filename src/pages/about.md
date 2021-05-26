@@ -118,7 +118,7 @@ sections:
   - section_id: lorem-ipsum
     title: onde estivemos
     subtitle: Instituições que fizeram parte da nossa jornada
-    col_number: three
+    col_number: five
     grid_items:
       - image_alt: coppe ufrj
         actions: []
