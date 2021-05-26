@@ -17,7 +17,7 @@ sections:
       superior", ou "criação perfeita".  Mais que isso, como um laboratório
       cibernético - isto é, que estuda padrões de controle a comunicação -,
       fazemos referência ao estilo de linguagem poética, pela sua capacidade e
-      ousadia de capturar e transmitir complexidades humanas.
+      ousadia de capturar e transmitir as complexidades e abstrações humanas.
 
 
       Nosso manifesto é:
