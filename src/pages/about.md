@@ -149,6 +149,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/unnamed (4).png
     type: grid_section
 seo:
   type: stackbit_page_meta
