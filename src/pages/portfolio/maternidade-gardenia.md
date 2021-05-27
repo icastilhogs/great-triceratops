@@ -1,7 +1,7 @@
 ---
 title: Arquitetura Fractal
 subtitle: Print
-date: '2020-02-10'
+date: '0002-02-10'
 thumb_image: images/portfolio/gardenia/001.png
 thumb_image_alt: Design Is One preview
 sections:
