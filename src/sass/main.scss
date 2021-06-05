@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
 // Fonts
 $fonts: (
   fraunces: ("Fraunces", serif),
@@ -20,11 +22,12 @@ $color-accent:   #d8195e !default;
 
 // Alternative accent colors
 $accent-colors: (
+  black: black,
   blue:   #0c8aea,
   green:  #10b981,
   red:    #fa292a,
   violet: #7c43a8,
-  yellow: #ed9700
+  yellow: #ed9700,
 );
 
 // Container max width

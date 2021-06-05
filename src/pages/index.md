@@ -2,53 +2,35 @@
 title: Home
 hide_title: true
 sections:
-  - type: hero_section
-    section_id: hero
-    title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
-    title: Recent Work
-    subtitle: Explore case studies
+    title: portfolio
     layout_style: tiles
-    projects_number: 6
-    view_all_label: View All
+    projects_number: 2
+    view_all_label: ver todos
     view_all_url: portfolio
+  - section_id: journal
+    title: journal
+    posts_number: 2
+    col_number: two
+    actions:
+      - label: ver todos
+        url: /journal
+        style: button
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+    type: posts_section
   - type: grid_section
-    section_id: clients
-    title: Clients
-    subtitle: A few of the companies we're proud to call partners
+    section_id: team
+    title: time
+    subtitle: nossa família de experts
     col_number: three
     grid_items:
       - type: grid_item
-        image: images/logo-1.svg
-        image_alt: Logo 1
-      - type: grid_item
-        image: images/logo-2.svg
-        image_alt: Logo 2
-      - type: grid_item
-        image: images/logo-3.svg
-        image_alt: Logo 3
-      - type: grid_item
-        image: images/logo-4.svg
-        image_alt: Logo 4
-      - type: grid_item
-        image: images/logo-5.svg
-        image_alt: Logo 5
-  - type: grid_section
-    section_id: services
-    title: Services
-    subtitle: What we do
-    col_number: three
-    grid_items:
-      - type: grid_item
-        title: Business design
-        image: images/service-1.svg
+        title: Isabela
+        image: images/isabela.png
         content: |-
           - Research and insight
           - Business innovation and transformation
@@ -58,8 +40,8 @@ sections:
           - Digital and experience strategy
           - Communication strategy
       - type: grid_item
-        title: Brand design
-        image: images/service-2.svg
+        title: Iago
+        image: images/iago.png
         content: |-
           - Brand development
           - Naming
@@ -69,7 +51,7 @@ sections:
           - Brand implementation and management
           - Typography
       - type: grid_item
-        title: Experience design
+        title: Agenor
         image: images/service-3.svg
         content: |-
           - Digital product design
@@ -82,16 +64,16 @@ sections:
           - Product design
   - type: cta_section
     section_id: cta
-    title: Let’s Work Together!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    title: Vamos trabalhar juntos!
+    content: >
+      Diga "Olá" pelo e-mail atendimento@eupoiese.com ou pelo WhatsApp pelo
+      número +55 22 9 8845-6722 e conte-nos seus objetivos e ideias!
     actions:
       - type: action
-        label: Let's start
+        label: começar
         url: /contact
         style: button
-    image: images/cta.svg
+    image: /images/service-1.svg
     image_alt: Illustration
     bg_color: light
 template: advanced

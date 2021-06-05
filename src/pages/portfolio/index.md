@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page
+title: portfolio
+subtitle: conheça um pouco do nosso processo com nossos projetos favoritos
 layout_style: mosaic
 seo:
   type: stackbit_page_meta

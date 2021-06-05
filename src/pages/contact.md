@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contato
 hide_title: false
 sections:
   - type: form_section
@@ -14,43 +14,45 @@ sections:
       ***
 
 
-      ## Our Offices
+      ## Nós estamos em
 
 
-      ### San Francisco
+      ### Vitória
 
-      1234 Some St.<br>
+      <br>
 
-      San Francisco, CA 12345<br>
+      Vitória/ES<br>
 
-      1-234-556-7890<br>
+      CEP 28-0000<br>
 
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      
+      [Mapa &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
 
 
-      ### New York
+      ### Campos dos Goytacazes
 
-      1234 Some St.<br>
+      Rua Tenente Coronel Cardoso, 873 - Parque Tamandaré<br>
 
-      New York, NY 12345<br>
+      Campos dos Goytacazes/ RJ<br>
 
-      1-234-556-7890<br>
+      CEP 28035-042<br>
 
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      [Mapa &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+
     form_id: contactForm
     form_action: /thank-you
     form_fields:
       - type: form_field
         input_type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: Nome
+        default_value: Seu nome
         is_required: true
       - type: form_field
         input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Seu endereço de e-mail
         is_required: true
       - type: form_field
         input_type: select
@@ -64,8 +66,8 @@ sections:
       - type: form_field
         input_type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: Mensagem
+        default_value: Sua mensagem
       - type: form_field
         input_type: checkbox
         name: consent

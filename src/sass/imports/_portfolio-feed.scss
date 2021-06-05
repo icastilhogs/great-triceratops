@@ -138,8 +138,8 @@
       left: 0;
       padding: 1.33333em;
       position: absolute;
-      -webkit-transform: translateY(100%);
-      transform: translateY(100%);
+      -webkit-transform: translateY(0);
+      transform: translateY(0);
       -webkit-transition: .3s;
       transition: .3s;
       width: 100%;
@@ -150,14 +150,13 @@
       &:hover,
       &:focus {
         .project-card__image {
-          opacity: .5;
           -webkit-transform: translateY(-35px);
           transform: translateY(-35px);
         }
 
         .project-card__header {
-          -webkit-transform: translateY(0);
-          transform: translateY(0);
+          -webkit-transform: translateY(100%);
+          transform: translateY(100%);
         }
       }
     }
