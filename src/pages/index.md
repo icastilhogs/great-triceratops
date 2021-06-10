@@ -31,14 +31,10 @@ sections:
       - type: grid_item
         title: Isabela
         image: images/isabela.png
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |
+          *   Pesquisa e insight
+          *   Gerenciamento de projetos
+          *   Direção criativa
       - type: grid_item
         title: Iago
         image: images/iago.png
