@@ -111,7 +111,6 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: /images/unnamed (6).png
       - image_alt: university of east london
         actions: []
         type: grid_item
