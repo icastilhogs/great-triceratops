@@ -17,11 +17,8 @@ sections:
     image_alt: Design Is One 2
     width: wide
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: |
+      O ambulatório é solto como uma varanda. 
   - type: image_section
     image: images/portfolio/gardenia/003.png
     image_alt: Design Is One 3
