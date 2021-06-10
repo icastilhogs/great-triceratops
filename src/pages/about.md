@@ -114,9 +114,6 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-      - image_alt: lorem-ipsum
-        actions: []
-        type: grid_item
         image: /images/unnamed (7).png
       - image_alt: urbana unicamp
         actions: []
