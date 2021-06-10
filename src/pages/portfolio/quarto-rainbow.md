@@ -22,11 +22,7 @@ sections:
     image_alt: Nature Magazine 2
     width: wide
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: " Deixe que, quando seus pés toquem o chão do seu quarto você escute \"você é tolerante e meigo com todos\".\_ Você é complexo, irregular, descontínuo, doce e quente como a madeira. Você escreve poesia no celular andando de um lado pro outro porque sua mente é inquieta e veloz, ao mesmo tempo que delicada e colorida como um arco iris em tons pasteis.\_Quando entrarem no seu quarto, que sua essência esteja lá, viva, para acolher quem quer que seja.\n"
   - type: image_section
     image: images/work-magazine-3.jpg
     image_alt: Nature Magazine 3
