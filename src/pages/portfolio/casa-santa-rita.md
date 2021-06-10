@@ -23,11 +23,7 @@ sections:
     image_alt: Subtle 2
     width: wide
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: "Elas caminham junto conosco, em todas as nossas fases, adaptando-se a brinquedos e retalhos no chão a porcelanatos polidos e reluzentes com cantos tristes e vazios.\_Depois de tantas etapas, cores e histórias vividas, salas de jantar demolidas para acomodar mais filhos, essa casa chegou a forma que lhes apresento. Transformou-se. A garagem apertadinha finalmente cresceu. O andar de cima finalmente entrou na casa. A piscina, que um dia já existiu e um dia já foi embora, voltou.\n"
   - type: image_section
     image: images/work-photography-magazine-3.jpg
     image_alt: Subtle 3
