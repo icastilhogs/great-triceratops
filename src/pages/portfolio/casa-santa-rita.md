@@ -1,6 +1,6 @@
 ---
 title: Brotando espaço
-subtitle: Nesta reforma, mantendo a área construída a sensação espacial quadruplicou!
+subtitle: 'Nesta reforma, mantendo a área construída a sensação espacial quadruplicou!'
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
@@ -11,15 +11,13 @@ sections:
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      Rita comecou a construir sua casa no final dos anos 70, quando noivou. O
+      terreno foi presente do pai, fazendeiro. Mudou-se ainda sem janelas, com o
+      chão em terra batida. Costurou e fez bolos para sustentar a casa até que
+      seu marido conseguisse um emprego melhor. Filhos e neta cresceram ali, e a
+      casa nunca realmente ficou pronta. E sabe, geralmente casas nunca ficam
+      prontas. 
   - type: image_section
     image: images/work-photography-magazine-2.jpg
     image_alt: Subtle 2
