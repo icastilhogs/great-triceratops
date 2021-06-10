@@ -38,14 +38,9 @@ sections:
       - type: grid_item
         title: Moisés
         image: images/iago.png
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Projetista
+          *   Artista 3D
   - type: cta_section
     section_id: cta
     title: Vamos trabalhar juntos!
