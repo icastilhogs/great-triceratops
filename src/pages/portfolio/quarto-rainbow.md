@@ -18,7 +18,7 @@ sections:
       que suas paredes te digam "sua alma é como a terra molhada das manhãs
       amenas que você acorda para cavalgar".
   - type: image_section
-    image: images/work-magazine-2.jpg
+    image: /images/Meuquarto6_Photo---7.jpg
     image_alt: Nature Magazine 2
     width: wide
   - type: text_section
