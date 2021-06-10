@@ -560,6 +560,7 @@ collections:
                 options:
                   - two
                   - three
+                  - five
               - widget: list
                 name: grid_items
                 label: Grid items
@@ -744,6 +745,7 @@ collections:
                 options:
                   - two
                   - three
+                  - five
               - widget: list
                 name: actions
                 label: Action buttons
@@ -1085,6 +1087,7 @@ collections:
             options:
               - two
               - three
+              - five
           - widget: object
             name: seo
             label: Seo

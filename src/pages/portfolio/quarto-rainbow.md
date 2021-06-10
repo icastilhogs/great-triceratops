@@ -1,6 +1,6 @@
 ---
 title: Você é o que você ama
-subtitle: Um quarto todo projetado em torno de um tapete multicolorido
+subtitle: Um quarto todo projetado em torno do tapete sensorial
 date: '2021-01-10'
 thumb_image: images/portfolio/rainbow/001.jpg
 thumb_image_alt: Nature Magazine preview

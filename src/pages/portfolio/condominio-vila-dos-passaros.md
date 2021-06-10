@@ -1,6 +1,6 @@
 ---
-title: Cantando como passarinhos
-subtitle: O condomínio 'Vila dos Pássaros' 
+title: Um passeio pela rua Tuiuiú
+subtitle: O condomínio 'Vila dos Pássaros'
 date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
 thumb_image_alt: Nature Mockup Magazine preview

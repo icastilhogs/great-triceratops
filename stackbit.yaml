@@ -196,6 +196,7 @@ models:
         options:
           - two
           - three
+          - five
         default: three
         required: true
       - type: model
@@ -454,6 +455,7 @@ models:
         options:
           - two
           - three
+          - five
         default: three
         required: true
       - type: list
@@ -548,6 +550,7 @@ models:
         options:
           - two
           - three
+          - five
         default: three
         required: true
       - type: list

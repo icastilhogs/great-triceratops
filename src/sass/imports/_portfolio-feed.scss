@@ -59,6 +59,7 @@
     background-size: 204% 100%;
     border: 2px solid $color-accent;
     color:#fff;
+    font-family: 'Contrail One', sans-serif;
     font-size: 16px;
     font-weight: bold;
     line-height: 1.2;
@@ -111,12 +112,12 @@
         &:nth-child(4n+2),
         &:nth-child(4n+3) {
           -ms-flex: 0 0 40%;
-          flex: 0 0 40%;
+          flex: 0 0 auto;
           max-width: 40%;
 
           .project-card__image {
             &:before {
-              padding-top: calc(90% + 9px);
+              padding-top: calc(90% + 12px);
             }
           }
         }

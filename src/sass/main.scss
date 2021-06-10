@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Contrail+One&display=swap');
+
 // Fonts
 $fonts: (
   fraunces: ("Fraunces", serif),
@@ -38,7 +40,7 @@ $container-md: 780px !default;
 $container-padding: 3vw !default;
 
 // Grid gap
-$grid-gap: 1.66667rem !default;
+$grid-gap: 1rem !default;
 
 @import "imports/reset";
 @import "imports/general";
