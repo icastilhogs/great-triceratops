@@ -1,5 +1,5 @@
 ---
-title: sobre
+title: Sem sonhos não haveria Via Láctea nem estrelas
 hide_title: false
 sections:
   - type: content_section
@@ -10,22 +10,17 @@ sections:
       tiraram seus sonhos estrategicamente do papel.
 
 
-      Nosso nome é uma neologia  criada a partir do radical grego *"poiesis"*,
+      Nosso nome é uma neologia  criada a partir do radical grego **"poiesis"**,
       origem da palavra "poesia", que também significa  criação. Junto ao
-      prefixo grego *"eu"* - "perfeito" -, a palavra significa "criação
+      prefixo grego "eu" - "perfeito" -, a palavra significa "criação
       superior", ou "criação perfeita".  Mais que isso, como um laboratório
       cibernético - isto é, que estuda padrões de controle a comunicação -,
       fazemos referência ao estilo de linguagem poética, pela sua capacidade e
-      ousadia de capturar e transmitir as complexidades e abstrações humanas.
+      ousadia de capturar e transmitir as complexidades e abstrações humanas. 
+      Portanto, nosso manifesto é:
 
 
-      Nosso manifesto é:
-
-
-      > *Sem sonhos não haveria Via Láctea nem estrelas*
-
-
-      Pensar não é suficiente. Como diria Kierkegaard, “escolher-se é
+      > Pensar não é suficiente. Como disse Kierkegaard, “escolher-se é
       existir-se”. E quem sonha deseja. Desejar é mais que pensar. O desejo é
       criativo, fractalmente, universo a fora. Quem existe cria. Quem existe,
       necessariamente, deseja, mais do que simplesmente reflete. Sonhe. Porque
