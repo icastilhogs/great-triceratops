@@ -1,6 +1,6 @@
 ---
 title: Não nasci para me encaixar
-subtitle: A casa Purple não economizou na personalidade
+subtitle: A Casa Púrpura não economizou na personalidade
 date: '2020-04-10'
 thumb_image: images/portfolio/purple/001.png
 thumb_image_alt: The Book preview
