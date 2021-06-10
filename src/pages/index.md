@@ -36,7 +36,7 @@ sections:
           *   Gerenciamento de projetos
           *   Direção criativa
       - type: grid_item
-        title: Iago
+        title: Moisés
         image: images/iago.png
         content: |-
           - Brand development
