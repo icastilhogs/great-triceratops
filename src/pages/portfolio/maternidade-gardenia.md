@@ -1,6 +1,6 @@
 ---
 title: Arquitetura Fractal
-subtitle: Print
+subtitle: Vida é alegria
 date: '2021-05-10'
 thumb_image: images/portfolio/gardenia/001.png
 thumb_image_alt: Design Is One preview
