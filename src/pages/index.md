@@ -27,7 +27,7 @@ sections:
     subtitle: lorem-ipsum
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Isabela Castilho
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
