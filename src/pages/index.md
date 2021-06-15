@@ -7,7 +7,7 @@ sections:
     content: |
       Somos a equipe perfeita para tirar seus sonhos do papel
     actions:
-      - label: lorem-ipsum
+      - label: saiba mais
         url: '#'
         style: button
         icon: dribbble
