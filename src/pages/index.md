@@ -109,8 +109,9 @@ sections:
     section_id: cta
     title: Vamos trabalhar juntos!
     content: >
-      Diga "Olá" pelo e-mail atendimento@eupoiese.com ou pelo WhatsApp pelo
-      número +55 22 9 8845-6722 e conte-nos seus objetivos e ideias!
+      Somos a equipe perfeita para tirar seus sonhos do papel! Diga "Olá" pelo
+      e-mail atendimento@eupoiese.com ou pelo WhatsApp pelo número +55 22 9
+      8845-6722 e conte-nos seus objetivos e ideias!
     actions:
       - type: action
         label: começar
