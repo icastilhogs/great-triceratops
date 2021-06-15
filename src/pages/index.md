@@ -2,19 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: |
-      Somos a equipe perfeita para tirar seus sonhos do papel
-    actions:
-      - label: saiba mais
-        url: '#'
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    type: hero_section
   - type: portfolio_section
     section_id: latest-projects
     title: portfolio
