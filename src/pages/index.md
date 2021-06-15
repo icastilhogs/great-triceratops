@@ -31,7 +31,7 @@ sections:
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
-          ## Isabela
+          ## Lorem
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
