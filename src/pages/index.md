@@ -22,6 +22,12 @@ sections:
         no_follow: false
         type: action
     type: posts_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: grid_section
   - type: grid_section
     section_id: team
     title: time
@@ -64,11 +70,5 @@ sections:
     image: /images/service-1.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    grid_items: []
-    type: grid_section
 template: advanced
 ---
