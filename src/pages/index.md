@@ -25,7 +25,7 @@ sections:
   - section_id: lorem-ipsum
     title: colaboradores
     subtitle: lorem-ipsum
-    col_number: three
+    col_number: two
     grid_items:
       - title: Isabela Castilho
         subtitle: lorem-ipsum
