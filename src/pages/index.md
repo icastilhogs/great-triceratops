@@ -4,17 +4,8 @@ hide_title: true
 sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Somos a equipe perfeita para tirar seus sonhos do papel
     actions:
       - label: lorem-ipsum
         url: '#'
