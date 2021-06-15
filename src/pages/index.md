@@ -23,7 +23,7 @@ sections:
         type: action
     type: posts_section
   - section_id: lorem-ipsum
-    title: parceiros
+    title: colaboradores
     subtitle: lorem-ipsum
     col_number: three
     grid_items:
