@@ -25,7 +25,7 @@ sections:
   - section_id: lorem-ipsum
     title: parceiros
     subtitle: lorem-ipsum
-    col_number: three
+    col_number: five
     grid_items:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
