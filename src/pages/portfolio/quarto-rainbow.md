@@ -6,44 +6,30 @@ thumb_image: images/portfolio/rainbow/001.jpg
 thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
-    image: images/work-magazine-1.jpg
+    image: /images/Meuquarto5_Photo---5.jpg
     image_alt: Nature Magazine 1
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      Você é o que você ama. Não é definido pelo o que te aterroriza, te causa
+      ansiedade, angústia, insegurança. Você é o que você ama, então, envolva-se
+      completamente nisso. Deixe o seu ambiente te lembrar o que você é. Deixe
+      que suas paredes te digam "sua alma é como a terra molhada das manhãs
+      amenas que você acorda para cavalgar".
   - type: image_section
-    image: images/work-magazine-2.jpg
+    image: /images/Meuquarto6_Photo---7.jpg
     image_alt: Nature Magazine 2
     width: wide
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: " Deixe que, quando seus pés toquem o chão do seu quarto você escute \"você é tolerante e meigo com todos\".\_ Você é complexo, irregular, descontínuo, doce e quente como a madeira. Você escreve poesia no celular andando de um lado pro outro porque sua mente é inquieta e veloz, ao mesmo tempo que delicada e colorida como um arco iris em tons pasteis.\_Quando entrarem no seu quarto, que sua essência esteja lá, viva, para acolher quem quer que seja.\n"
   - type: image_section
-    image: images/work-magazine-3.jpg
+    image: /images/SwiftRoom2_Photo---3.jpg
     image_alt: Nature Magazine 3
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: |
+      Você é o que você ama.
 seo:
   type: stackbit_page_meta
   title: Nature Magazine
