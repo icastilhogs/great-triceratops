@@ -1,4 +1,10 @@
+#instituicao .card {
+  align-self: center;
+  align-content: center;
+  align-items: center;
+}
 .card {
+  
   &__title {
     font-size: 1.33333em;
     margin: 0;
@@ -21,6 +27,7 @@
     }
     .grid--col-five & {
       max-width: 200px;
+      vertical-align: middle;
     }
   }
 

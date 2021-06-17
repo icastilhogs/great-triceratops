@@ -42,18 +42,18 @@
 
   &__image {
     &:not(:first-child) {
-      margin-top: 2.5em;
+      margin-top: 2em;
     }
   }
 
   .grid {
     &:not(:first-child) {
-      margin-top: 2.5em;
+      margin-top: 2em;
     }
   }
 
   .cell {
-    margin-bottom: 1.66667em;
+    margin-bottom: 0em;
   }
 
   &.section--header {

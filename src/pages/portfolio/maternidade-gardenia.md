@@ -35,7 +35,7 @@ sections:
       arcu accumsan lorem amet accumsan.
 seo:
   type: stackbit_page_meta
-  title: Design Is One
+  title: Maternidade Gardênia
   description: This is the sample project description
   extra:
     - name: 'og:type'

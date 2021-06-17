@@ -2,29 +2,23 @@
 title: Não nasci para me encaixar
 subtitle: A Casa Púrpura não economizou na personalidade
 date: '2020-04-10'
-thumb_image: images/portfolio/purple/001.png
+thumb_image: images/portfolio/purpura/purpura-001.jpg
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
-    image: images/work-book-cover-1.jpg
-    image_alt: The Book 1
+    image: images/portfolio/purpura/purpura-002.jpg
+    image_alt: Fachada Casa Púrpura
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: "Será que tem como ter uma casa púrpura? Será que não fica muito chamativo? Pois nem toda arquitetura nasce para se encaixar. Algumas nascem para se destacar.\_A casa púrpura foi projetada em um terreno bem pequeno, portanto, verticalizar era a saída para encaixar um programa mais confortável. Pensada com muito cuidado, misturando a pegada urbana do púrpura com as vegetações incorporadas à fachada.\n"
-  - type: image_section
-    image: images/work-book-cover-2.jpg
-    image_alt: The Book 2
-    width: wide
-  - type: text_section
     content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    "Será que tem como ter uma casa púrpura? Será que não fica muito chamativo? Pois nem toda arquitetura nasce para se encaixar. 
+    Algumas nascem para se destacar.\_A casa púrpura foi projetada em um terreno bem pequeno, portanto, verticalizar era a 
+    saída para encaixar um programa mais confortável. Pensada com muito cuidado, misturando a pegada urbana do púrpura com 
+    as vegetações incorporadas à fachada.\n"
   - type: image_section
-    image: images/work-book-cover-3.jpg
-    image_alt: The Book 3
+    image: images/portfolio/purpura/purpura-001.jpg
+    image_alt: Fachada Casa Púrpura
     width: wide
   - type: text_section
     content: >-
@@ -38,7 +32,7 @@ sections:
       arcu accumsan lorem amet accumsan.
 seo:
   type: stackbit_page_meta
-  title: The Book
+  title: Casa Púrpura
   description: This is the sample project description
   extra:
     - name: 'og:type'

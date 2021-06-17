@@ -1,7 +1,7 @@
 ---
 title: portfolio
 subtitle: conheça um pouco do nosso processo com nossos projetos favoritos
-layout_style: mosaic
+layout_style: tiles
 seo:
   type: stackbit_page_meta
   title: Portfolio

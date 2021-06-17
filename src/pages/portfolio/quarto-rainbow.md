@@ -32,7 +32,7 @@ sections:
       Você é o que você ama.
 seo:
   type: stackbit_page_meta
-  title: Nature Magazine
+  title: Você é o que você ama
   description: This is the sample project description
   extra:
     - name: 'og:type'
