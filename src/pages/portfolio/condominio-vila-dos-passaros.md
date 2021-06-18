@@ -46,7 +46,7 @@ sections:
       arcu accumsan lorem amet accumsan.
 seo:
   type: stackbit_page_meta
-  title: Nature Mockup Magazine
+  title: Vila dos Pássaros
   description: This is the sample project description
   extra:
     - name: 'og:type'

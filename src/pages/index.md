@@ -22,83 +22,31 @@ sections:
         no_follow: false
         type: action
     type: posts_section
-  - section_id: lorem-ipsum
-    title: colaboradores
-    subtitle: lorem-ipsum
-    col_number: two
+  - type: grid_section
+    section_id: team
+    title: time
+    subtitle: nossa família de experts
+    col_number: three
     grid_items:
-      - title: Isabela Castilho
-        subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >
-          ## Lorem
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
-        actions: []
-        type: grid_item
-      - title: Moisés
-        subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        type: grid_item
-      - title: Jordan
-        subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        type: grid_item
-      - title: Criare 3D
-        subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        type: grid_item
-    type: grid_section
+      - type: grid_item
+        title: Isabela
+        image: images/isabela.png
+        content: |
+          *   Pesquisa e insight
+          *   Gerenciamento de projetos
+          *   Direção criativa
+      - type: grid_item
+        title: Moisés
+        image: images/iago.png
+        content: |
+          *   Projetista
+          *   Artista 3D
   - type: cta_section
     section_id: cta
     title: Vamos trabalhar juntos!
     content: >
-      Somos a equipe perfeita para tirar seus sonhos do papel! Diga "Olá" pelo
-      e-mail atendimento@eupoiese.com ou pelo WhatsApp pelo número +55 22 9
-      8845-6722 e conte-nos seus objetivos e ideias!
+      Diga "Olá" pelo e-mail atendimento@eupoiese.com ou pelo WhatsApp pelo
+      número +55 22 9 8845-6722 e conte-nos seus objetivos e ideias!
     actions:
       - type: action
         label: começar
