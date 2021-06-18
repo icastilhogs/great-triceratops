@@ -3,13 +3,6 @@ title: lorem-ipsum
 hide_title: true
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: |+
-
-
-    actions: []
-    type: hero_section
-  - section_id: lorem-ipsum
     title: de empreendedor para empreendot
     subtitle: Nossas 3 principais frentes
     image_alt: lorem-ipsum
